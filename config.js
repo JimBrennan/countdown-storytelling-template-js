@@ -11,14 +11,13 @@ _configOptions = {
 	webmap_largescale: "aaeeb088f21e42d6abf6204fac61aeb8", 
 	
 	//id for overview web map; this is the map that contains the content point layer
-	webmap_overview: "caca75ada5f14f1dad84a560db831a50",
-	
+	webmap_overview: "3b440d4b507e4210a2b3f105da5bbf5d",
 	//layer in overview webmap which provides the countdown content
-	contentLayer: "locations", 
+	contentLayer: "top99", 
 	fieldName_Rank: "rank",
 	fieldName_Name: "name",
 	//NOTE: if level field doesn't exist, app will use defaultLargeScaleZoomLevel
-	fieldName_Level: "level",
+	//fieldName_Level: "level",
 
 	//Initial zoom level for overview map
 	initialZoomLevel: 2,
