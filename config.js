@@ -27,7 +27,7 @@ _configOptions = {
 	
 	//If no zoom level is encoded for the feature, use this zoom 
 	//level for the large scale map
-	defaultLargeScaleZoomLevel: 30,
+	defaultLargeScaleZoomLevel: 8,
 	
 	showIntro: false,
 	popupHeight: 300,
