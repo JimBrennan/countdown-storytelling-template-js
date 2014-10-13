@@ -20,7 +20,7 @@ _configOptions = {
 	//fieldName_Level: "level",
 
 	//Initial zoom level for overview map
-	initialZoomLevel: 2,
+	initialZoomLevel: 10,
 	
 	//Initial overview map zoom level for wider map aspect ratios
 	initialZoomLevelWide: 15,
