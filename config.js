@@ -21,10 +21,10 @@ _configOptions = {
 	fieldName_Level: "level",
 
 	//Initial zoom level for overview map
-	initialZoomLevel: 1,
+	initialZoomLevel: 0,
 	
 	//Initial overview map zoom level for wider map aspect ratios
-	initialZoomLevelWide: 2,
+	initialZoomLevelWide: 1,
 	
 	//If no zoom level is encoded for the feature, use this zoom 
 	//level for the large scale map
