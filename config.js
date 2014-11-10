@@ -14,11 +14,11 @@ _configOptions = {
 	webmap_overview: "3b440d4b507e4210a2b3f105da5bbf5d",
 	
 	//layer in overview webmap which provides the countdown content
-	contentLayer: "top99", 
-	fieldName_Rank: "rank",
+	contentLayer: "top98dual", 
+	fieldName_Rank: "OBJECTID",
 	fieldName_Name: "name",
 	//NOTE: if level field doesn't exist, app will use defaultLargeScaleZoomLevel
-	//fieldName_Level: "level",
+	fieldName_Level: "level",
 
 	//Initial zoom level for overview map
 	initialZoomLevel: 5,
