@@ -31,7 +31,7 @@ _configOptions = {
 	defaultLargeScaleZoomLevel: 8,
 	
 	showIntro: false,
-	popupHeight: 300,
+	popupHeight: 200,
 	popupLeftMargin: 30
 	
 }
