@@ -24,7 +24,7 @@ _configOptions = {
 	initialZoomLevel: 0,
 	
 	//Initial overview map zoom level for wider map aspect ratios
-	initialZoomLevelWide: 1,
+	initialZoomLevelWide: 0,
 	
 	//If no zoom level is encoded for the feature, use this zoom 
 	//level for the large scale map
